@@ -25,3 +25,7 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 * [math module](math_module.ipynb)
 * [random module](random_module.ipynb)
 * [statistics_module](statistics_module.ipynb)
+
+## Class XII Python review
+
+* [Python functions](functions.ipynb)
