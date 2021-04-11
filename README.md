@@ -8,7 +8,15 @@
 I freely borrowed from this project [NPTEL Python Intro course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL)
 by [s-aniruddha](https://github.com/s-aniruddha)
 
-### Class XI Python review
+## Class XI Python review
+
+### Python Language Introduction
+
+* [Basic Data Types](basic_data_types.ipynb)
+* [Operators](operators.ipynb)
+* [Expressions and Statements](expressions_and_statements.ipynb)
+
+### Data Structures, Libraries
 
 * [Python Strings](string.ipynb)
 * [Python Lists](list.ipynb)
