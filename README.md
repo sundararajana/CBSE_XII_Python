@@ -43,10 +43,10 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 * [Sets](set.ipynb)
 * [math module](math_module.ipynb)
 * [random module](random_module.ipynb)
-* [statistics_module](statistics_module.ipynb)
+* [statistics module](statistics_module.ipynb)
 
 ## Class XII Python review
 
-* [Python functions](functions.ipynb)
+* [Python Functions](functions.ipynb)
 * [Text File Handling](text_file_handling.ipynb)
 * [CSV File Handling](csv_file_handling.ipynb)
