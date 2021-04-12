@@ -47,6 +47,7 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 ## Class XII Python review
 
-* [Python Functions](functions.ipynb)
+* [Functions](functions.ipynb)
+* [Exception Handling](exception_handling.ipynb)
 * [Text File Handling](text_file_handling.ipynb)
 * [CSV File Handling](csv_file_handling.ipynb)
