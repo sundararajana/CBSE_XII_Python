@@ -36,11 +36,11 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 ### Data Structures, Libraries
 
-* [Python Strings](string.ipynb)
-* [Python Lists](list.ipynb)
-* [Python Tuples](tuple.ipynb)
-* [Python Dictionaries](dictionary.ipynb)
-* [Python Sets](set.ipynb)
+* [Strings](string.ipynb)
+* [Lists](list.ipynb)
+* [Tuples](tuple.ipynb)
+* [Dictionaries](dictionary.ipynb)
+* [Sets](set.ipynb)
 * [math module](math_module.ipynb)
 * [random module](random_module.ipynb)
 * [statistics_module](statistics_module.ipynb)
