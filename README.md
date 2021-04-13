@@ -21,6 +21,13 @@
 
 **Note** CBSE textbooks do **not** closely match the CBSE syllabus above.
 
+## CBSE Computer Science Sample Paper
+
+* [CBSE Computer Science Sample Question Paper 2020-21](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2020_21/ComputerScience-SQP.pdf)
+
+* [CBSE Computer Science Sample Question Paper - Marking Scheme 2020-21](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2020_21/ComputerScience-MS.pdf)
+
+
 ## Jupyter notebooks
 
 I freely borrowed from this project:
@@ -57,6 +64,8 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 * [random module](random_module.ipynb)
 
 * [statistics module](statistics_module.ipynb)
+
+* [builtin functions](builtin_functions.ipynb)
 
 ## Class XII Python review
 
