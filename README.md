@@ -17,7 +17,7 @@
 * [Class XI Textbook](http://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf)
 * [Class XII Textbook](http://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf)
 
-**Note** CBSE textbooks are slightly out of date with the current syllabus above.
+**Note** CBSE textbooks do **not** closely match the CBSE syllabus above.
 
 
 ## Jupyter notebooks
@@ -47,6 +47,7 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 ## Class XII Python review
 
+* [List, Dictionary, Set Comprehension](list_dict_set_comprehension.ipynb)
 * [Functions](functions.ipynb)
 * [Exception Handling](exception_handling.ipynb)
 * [Text File Handling](text_file_handling.ipynb)
