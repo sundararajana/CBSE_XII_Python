@@ -63,7 +63,7 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 * [random module](random_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/random_module.ipynb)
 
-* [statistics module](statistics_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/statistics.ipynb)
+* [statistics module](statistics_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/statistics_module.ipynb)
 
 * [builtin functions](builtin_functions.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/builtin_functions.ipynb)
 
