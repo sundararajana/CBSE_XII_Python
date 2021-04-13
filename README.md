@@ -39,56 +39,54 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 ### Python Language Introduction
 
-* [Python Introduction](python_introduction.ipynb)
+* [Python Introduction](python_introduction.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/python_introduction.ipynb)
 
-view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/python_introduction.ipynb)
+* [Basic Data Types](basic_data_types.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/basic_data_types.ipynb)
 
-* [Basic Data Types](basic_data_types.ipynb)
+* [Operators](operators.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/operators.ipynb)
 
-* [Operators](operators.ipynb)
-
-* [Expressions and Statements](expressions_and_statements.ipynb)
+* [Expressions and Statements](expressions_and_statements.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/expressions_and_statements.ipynb)
 
 ### Data Structures, Libraries
 
-* [Strings](string.ipynb)
+* [Strings](string.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/string.ipynb)
 
-* [Lists](list.ipynb)
+* [Lists](list.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/list.ipynb)
 
-* [Tuples](tuple.ipynb)
+* [Tuples](tuple.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/tuple.ipynb)
 
-* [Dictionaries](dictionary.ipynb)
+* [Dictionaries](dictionary.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/dictionary.ipynb)
 
-* [Sets](set.ipynb)
+* [Sets](set.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/set.ipynb)
 
-* [math module](math_module.ipynb)
+* [math module](math_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/math_module.ipynb)
 
-* [random module](random_module.ipynb)
+* [random module](random_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/random_module.ipynb)
 
-* [statistics module](statistics_module.ipynb)
+* [statistics module](statistics_module.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/statistics.ipynb)
 
-* [builtin functions](builtin_functions.ipynb)
+* [builtin functions](builtin_functions.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/builtin_functions.ipynb)
 
 ## Class XII Python review
 
-* [List, Dictionary, Set Comprehension](list_dict_set_comprehension.ipynb)
+* [List, Dictionary, Set Comprehension](list_dict_set_comprehension.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/list_dict_set_comprehension.ipynb)
 
-* [Functions](functions.ipynb)
+* [Functions](functions.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/functions.ipynb)
 
-* [Exception Handling](exception_handling.ipynb)
+* [Exception Handling](exception_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/exception_handling.ipynb)
 
-* [Text File Handling](text_file_handling.ipynb)
+* [Text File Handling](text_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/text_file_handling.ipynb)
 
-* [CSV File Handling](csv_file_handling.ipynb)
+* [CSV File Handling](csv_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/csv_file_handling.ipynb)
 
-* [Binary File Handling using pickle module](pickle.ipynb)
+* [Binary File Handling using pickle module](pickle.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/pickle.ipynb)
 
 
 ## Beyond CBSE XII board exam
 
 After CBSE XII board exam, what can you learn?
 
-* [Plotting with matplotlib](matplotlib_introduction.ipynb)
+* [Plotting with matplotlib](matplotlib_introduction.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/matplotlib_introduction.ipynb)
 
 * [Jupter Notebooks for NPTEL Python Course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL) by [s-aniruddha](https://github.com/s-aniruddha)
 
