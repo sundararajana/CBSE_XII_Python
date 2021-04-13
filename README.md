@@ -19,10 +19,11 @@
 
 **Note** CBSE textbooks do **not** closely match the CBSE syllabus above.
 
-
 ## Jupyter notebooks
 
-I freely borrowed from this project [NPTEL Python Intro course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL)
+I freely borrowed from this project:
+
+[NPTEL Python Intro course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL)
 by [s-aniruddha](https://github.com/s-aniruddha)
 
 ## Class XI Python review
@@ -52,3 +53,4 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 * [Exception Handling](exception_handling.ipynb)
 * [Text File Handling](text_file_handling.ipynb)
 * [CSV File Handling](csv_file_handling.ipynb)
+* [Binary File Handling using pickle module](pickle.ipynb)
