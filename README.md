@@ -54,3 +54,14 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 * [Text File Handling](text_file_handling.ipynb)
 * [CSV File Handling](csv_file_handling.ipynb)
 * [Binary File Handling using pickle module](pickle.ipynb)
+
+
+## Beyond CBSE XII board exam
+
+After CBSE XII board exam, what can you learn?
+
+* [Plotting with matplotlib](matplotlib_introduction.ipynb)
+* [NPTEL Python course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL)
+* [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+by [Jake Vanderplas](https://github.com/jakevdp)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [Jake Vanderplas](https://github.com/jakevdp)
