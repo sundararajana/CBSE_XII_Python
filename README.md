@@ -41,6 +41,8 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 * [Python Introduction](python_introduction.ipynb)
 
+view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/python_introduction.ipynb)
+
 * [Basic Data Types](basic_data_types.ipynb)
 
 * [Operators](operators.ipynb)
