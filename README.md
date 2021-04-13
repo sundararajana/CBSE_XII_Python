@@ -61,7 +61,10 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 After CBSE XII board exam, what can you learn?
 
 * [Plotting with matplotlib](matplotlib_introduction.ipynb)
-* [NPTEL Python course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL)
-* [Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+
+* [Jupter Notebooks for NPTEL Python Course](https://github.com/s-aniruddha/Programming-Data-Structures-and-Algorithms-Using-Python-NPTEL) by [s-aniruddha](https://github.com/s-aniruddha)
+
+* [A Whirlwind Tour Of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 by [Jake Vanderplas](https://github.com/jakevdp)
+
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) by [Jake Vanderplas](https://github.com/jakevdp)
