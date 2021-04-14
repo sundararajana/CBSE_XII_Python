@@ -27,7 +27,7 @@
 
 * [CBSE Computer Science Sample Question Paper - Marking Scheme 2020-21](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2020_21/ComputerScience-MS.pdf)
 
-* [CBSE Computer Science Sample Question Paper 2019-20]()http://cbseacademic.nic.in/web_material/SQP/ClassXII_2019_20/ComputerScience_SQP.pdf
+* [CBSE Computer Science Sample Question Paper 2019-20](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2019_20/ComputerScience_SQP.pdf)
 
 * [CBSE Computer Science Sample Question Paper - Marking Scheme 2019-20](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2019_20/ComputerScience_MS.pdf)
 
