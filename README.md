@@ -77,6 +77,8 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 * [Stack](stacks.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/stacks.ipynb)
 
+* [Queue](queues.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/queues.ipynb)
+
 * [Text File Handling](text_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/text_file_handling.ipynb)
 
 * [CSV File Handling](csv_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/csv_file_handling.ipynb)
