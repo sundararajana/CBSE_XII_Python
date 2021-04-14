@@ -33,7 +33,7 @@
 
 ## CBSE Past Paper
 
-# [CBSE CS Compartment Exam 2020](https://www.cbse.gov.in/cbsenew/question-paper/2020-comptt/XII/CS.pdf)
+* [CBSE CS Compartment Exam 2020](https://www.cbse.gov.in/cbsenew/question-paper/2020-comptt/XII/CS.pdf)
 
 ## Jupyter notebooks
 
