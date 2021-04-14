@@ -75,6 +75,8 @@ by [s-aniruddha](https://github.com/s-aniruddha)
 
 * [Exception Handling](exception_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/exception_handling.ipynb)
 
+* [Stack](stack.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/stack.ipynb)
+
 * [Text File Handling](text_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/text_file_handling.ipynb)
 
 * [CSV File Handling](csv_file_handling.ipynb) view with [nbviewer](https://nbviewer.jupyter.org/github/sundararajana/CBSE_XII_Python/blob/main/csv_file_handling.ipynb)
