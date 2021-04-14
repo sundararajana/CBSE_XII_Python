@@ -21,12 +21,19 @@
 
 **Note** CBSE textbooks do **not** closely match the CBSE syllabus above.
 
-## CBSE Computer Science Sample Paper
+## CBSE Computer Science Sample Papers
 
 * [CBSE Computer Science Sample Question Paper 2020-21](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2020_21/ComputerScience-SQP.pdf)
 
 * [CBSE Computer Science Sample Question Paper - Marking Scheme 2020-21](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2020_21/ComputerScience-MS.pdf)
 
+* [CBSE Computer Science Sample Question Paper 2019-20]()http://cbseacademic.nic.in/web_material/SQP/ClassXII_2019_20/ComputerScience_SQP.pdf
+
+* [CBSE Computer Science Sample Question Paper - Marking Scheme 2019-20](http://cbseacademic.nic.in/web_material/SQP/ClassXII_2019_20/ComputerScience_MS.pdf)
+
+## CBSE Past Paper
+
+# [CBSE CS Compartment Exam 2020](https://www.cbse.gov.in/cbsenew/question-paper/2020-comptt/XII/CS.pdf)
 
 ## Jupyter notebooks
 
