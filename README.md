@@ -8,7 +8,7 @@
 
 * [Class XI Textbook](https://ncert.nic.in/textbook.php?kecs1=0-11)
 
-    ###  Important Python chapters to read
+    **Important Python chapters to read**
 
     * [Getting Started with Python](https://ncert.nic.in/textbook.php?kecs1=5-11)
 
@@ -25,7 +25,7 @@
 
 * [Class XII Textbook](https://ncert.nic.in/textbook.php?lecs1=0-13)
 
-    ###  Important Python chapters to read
+    **Important Python chapters to read**
 
     * [Exception Handling in Python](https://ncert.nic.in/textbook.php?lecs1=1-13)
 
@@ -36,7 +36,7 @@
     * [Queue](https://ncert.nic.in/textbook.php?lecs1=4-13)
 
 
-**Note** NCERT textbooks do **not** closely match the CBSE syllabus above. There is extra information as well as missing information.
+**Note: NCERT textbooks do not closely match the CBSE syllabus above. There is extra information as well as missing information.**
 
 
 ## CBSE Computer Science Textbooks
@@ -45,7 +45,7 @@
 
 * [Class XII Textbook](http://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf)
 
-**Note** CBSE textbooks do **not** closely match the CBSE syllabus above.
+**Note: CBSE textbooks do not closely match the CBSE syllabus above.**
 
 ## CBSE Computer Science Sample Papers
 
