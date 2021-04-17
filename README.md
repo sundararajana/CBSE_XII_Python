@@ -10,7 +10,7 @@
 
     ###  Important Python chapters to read
 
-    * [Getting Started with Python](https://twitter.com/ikamalhaasan/status/1383047346670366728?s=20)
+    * [Getting Started with Python](https://ncert.nic.in/textbook.php?kecs1=5-11)
 
     * [Flow of Control](https://ncert.nic.in/textbook.php?kecs1=6-11)
 
