@@ -8,7 +8,33 @@
 
 * [Class XI Textbook](https://ncert.nic.in/textbook.php?kecs1=0-11)
 
+    ###  Important Python chapters to read
+
+    * [Getting Started with Python](https://twitter.com/ikamalhaasan/status/1383047346670366728?s=20)
+
+    * [Flow of Control](https://ncert.nic.in/textbook.php?kecs1=6-11)
+
+    * [Functions](https://ncert.nic.in/textbook.php?kecs1=7-11)
+
+    * [Strings](https://ncert.nic.in/textbook.php?kecs1=8-11)
+
+    * [Lists](https://ncert.nic.in/textbook.php?kecs1=9-11)
+
+    * [Tuples and Dictionaries](https://ncert.nic.in/textbook.php?kecs1=10-11)
+
+
 * [Class XII Textbook](https://ncert.nic.in/textbook.php?lecs1=0-13)
+
+    ###  Important Python chapters to read
+
+    * [Exception Handling in Python](https://ncert.nic.in/textbook.php?lecs1=1-13)
+
+    * [File Handling in Python](https://ncert.nic.in/textbook.php?lecs1=2-13)
+
+    * [Stack](https://ncert.nic.in/textbook.php?lecs1=3-13)
+
+    * [Queue](https://ncert.nic.in/textbook.php?lecs1=4-13)
+
 
 **Note** NCERT textbooks do **not** closely match the CBSE syllabus above. There is extra information as well as missing information.
 
