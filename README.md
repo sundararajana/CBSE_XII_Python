@@ -1,5 +1,25 @@
 # Jupyter notebooks for CBSE Class XII Python last minute review
 
+## What is Jupytet notebook?
+
+The [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents 
+that contain live code, equations, visualizations and narrative text.
+
+## Do I have to install any software on my machine to make use of this project?
+
+No. You can just click on the hyperlinks and read input/output of each Python expression/statement
+
+If you want to edit & play with the expressions/statements, then you've two options:
+
+1. Click on any of the Jupyter notebook link below. Change the domain from 'github.com' to 'githubtocolab.com'. 
+The notebook will open in [Google Colab](https://colab.research.google.com). You can login with your google id to edit/play
+with it.
+
+2. You can choose to install Python and Jypyter notebook on your machine.
+
+I recommend [Anaconda](https://www.anaconda.com/products/individual). After you install Anaconda, you can then download
+the zip of this project or git clone this project to play with it on your local machine.
+
 ## CBSE Computer Science Syllabus for 2020-21
 
 [CBSE Computer Science Syllabus](http://cbseacademic.nic.in/web_material/CurriculumMain21/revisedsyllabi/SrSecondary/REVISEDComputer_Science_Sr.Sec_2020-21.pdf)
