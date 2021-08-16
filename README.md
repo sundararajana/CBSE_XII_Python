@@ -1,6 +1,6 @@
 # Jupyter notebooks for CBSE Class XII Python last minute review
 
-## What is Jupytet notebook?
+## What is Jupyter notebook?
 
 The [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents 
 that contain live code, equations, visualizations and narrative text.
