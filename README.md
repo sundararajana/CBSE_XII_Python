@@ -1,5 +1,9 @@
 # Jupyter notebooks for CBSE Class XII Python last minute review
 
+This project is a set of Jupyter notebooks for reviewing
+Python programming language for CBSE (Central Board of Secondary Education)
+Class XI and XII.
+
 ## What is Jupyter notebook?
 
 The [Jupyter Notebook](https://jupyter.org/) is an open-source web application that allows you to create and share documents 
